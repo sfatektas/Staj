@@ -1,0 +1,5 @@
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\01.SingleResponsibility\obj\Debug\net5.0\01.SingleResponsibility.csproj.AssemblyReference.cache
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\01.SingleResponsibility\obj\Debug\net5.0\01.SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\01.SingleResponsibility\obj\Debug\net5.0\01.SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\01.SingleResponsibility\obj\Debug\net5.0\01.SingleResponsibility.AssemblyInfo.cs
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\01.SingleResponsibility\obj\Debug\net5.0\01.SingleResponsibility.csproj.CoreCompileInputs.cache

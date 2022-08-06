@@ -1,0 +1,15 @@
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\bin\Debug\net5.0\05.Dependecy Inversion.exe
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\bin\Debug\net5.0\05.Dependecy Inversion.deps.json
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\bin\Debug\net5.0\05.Dependecy Inversion.runtimeconfig.json
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\bin\Debug\net5.0\05.Dependecy Inversion.runtimeconfig.dev.json
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\bin\Debug\net5.0\05.Dependecy Inversion.dll
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\bin\Debug\net5.0\ref\05.Dependecy Inversion.dll
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\bin\Debug\net5.0\05.Dependecy Inversion.pdb
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\obj\Debug\net5.0\05.Dependecy Inversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\obj\Debug\net5.0\05.Dependecy Inversion.AssemblyInfoInputs.cache
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\obj\Debug\net5.0\05.Dependecy Inversion.AssemblyInfo.cs
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\obj\Debug\net5.0\05.Dependecy Inversion.csproj.CoreCompileInputs.cache
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\obj\Debug\net5.0\05.Dependecy Inversion.dll
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\obj\Debug\net5.0\ref\05.Dependecy Inversion.dll
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\obj\Debug\net5.0\05.Dependecy Inversion.pdb
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\SOLID Prensibleri\05.Dependecy Inversion\obj\Debug\net5.0\05.Dependecy Inversion.genruntimeconfig.cache

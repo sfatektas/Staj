@@ -1,0 +1,16 @@
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\bin\Debug\net5.0\02.Open Closed.exe
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\bin\Debug\net5.0\02.Open Closed.deps.json
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\bin\Debug\net5.0\02.Open Closed.runtimeconfig.json
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\bin\Debug\net5.0\02.Open Closed.runtimeconfig.dev.json
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\bin\Debug\net5.0\02.Open Closed.dll
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\bin\Debug\net5.0\ref\02.Open Closed.dll
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\bin\Debug\net5.0\02.Open Closed.pdb
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\obj\Debug\net5.0\02.Open Closed.csproj.AssemblyReference.cache
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\obj\Debug\net5.0\02.Open Closed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\obj\Debug\net5.0\02.Open Closed.AssemblyInfoInputs.cache
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\obj\Debug\net5.0\02.Open Closed.AssemblyInfo.cs
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\obj\Debug\net5.0\02.Open Closed.csproj.CoreCompileInputs.cache
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\obj\Debug\net5.0\02.Open Closed.dll
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\obj\Debug\net5.0\ref\02.Open Closed.dll
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\obj\Debug\net5.0\02.Open Closed.pdb
+C:\Users\SEFA$$\Desktop\Udemy .Net Core Mvc-Api Kurs\02.Open Closed\obj\Debug\net5.0\02.Open Closed.genruntimeconfig.cache
